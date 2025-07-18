@@ -1299,14 +1299,7 @@ form label,
 
 
 
-@media (max-width: 600px) {
-  .titulo-navbar {
-    font-size: 1.3rem !important;
-    text-align: center !important;
-    line-height: 1.2;
-  }
-}
-/* 
+
 .bg-mision-panes {
     background: url('https://www.tiasaalimentos.com.mx/wp-content/uploads/2023/01/tipos-de-pan-dulce.jpg ') center center/cover #f8f5f2 no-repeat;
  
@@ -1337,11 +1330,17 @@ form label,
 
 
 
+@media (max-width: 600px) {
+  .titulo-navbar {
+    font-size: 1.3rem !important;
+    text-align: center !important;
+    line-height: 1.2;
+  }
+}
 
 
 
-
-
+/*
 
 .bg-vision-biscocho {
     background: url(' https://www.ecured.cu/images/thumb/8/83/Pan_de_Pascua.jpg/1200px-Pan_de_Pascua.jpg ') center center/cover no-repeat !important;
