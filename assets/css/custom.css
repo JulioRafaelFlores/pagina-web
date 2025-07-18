@@ -1298,7 +1298,13 @@ form label,
 }
 
 
-
+@media (max-width: 600px) {
+  .titulo-playfair {
+    font-size: 1.3rem !important;
+    text-align: center !important;
+    line-height: 1.2;
+  }
+}
 
 
 /* 
