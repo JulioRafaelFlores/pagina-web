@@ -1240,9 +1240,6 @@ transform: scale(1.07);
 }
 
 
-
-
-
 .carousel-img {
     width: 100%  !important; 
     max-width: 500px !important; /* Ajusta el ancho máximo según tus necesidades */
@@ -1284,6 +1281,8 @@ form label,
     background-color: #FFD600 !important;   /* Amarillo más oscuro */
     color: #460202 !important;
 }
+
+
 
 
 @font-face {
