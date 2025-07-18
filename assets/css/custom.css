@@ -1298,15 +1298,14 @@ form label,
 }
 
 
+
 @media (max-width: 600px) {
-  .titulo-playfair {
+  .titulo-navbar {
     font-size: 1.3rem !important;
     text-align: center !important;
     line-height: 1.2;
   }
 }
-
-
 /* 
 .bg-mision-panes {
     background: url('https://www.tiasaalimentos.com.mx/wp-content/uploads/2023/01/tipos-de-pan-dulce.jpg ') center center/cover #f8f5f2 no-repeat;
